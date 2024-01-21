@@ -1,6 +1,6 @@
 # T-shape cube puzzle solver.
 
-Solves puzzle where you have to fill a 6x6x6 cube with Tetris-like T shapes.
+A fun project that solves a puzzle where you have to fill a 6x6x6 cube with T-Block pieces (Tetris-like "T" shapes).
 
 T-Block is a tetromino shaped like the "T" letter.
 
